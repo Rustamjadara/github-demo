@@ -1,0 +1,42 @@
+"Test Git Quick Star demo "  
+
+git version
+
+git init project-name
+
+git config --global "username"
+
+git config --global "email"
+
+
+
+git clone link
+
+git status check changes between local dir(working dir/staging area/repo) and remote directory
+
+git add
+
+
+git status
+
+git commit -m "message"
+
+still we are on local repo
+
+git push 
+
+git remote add origin gituser@git.server.com:project.git
+
+git diff
+
+git branch new_branch
+
+git checkout new_branch
+
+git checkout -b test_branch
+
+git branch -D test_branch
+
+it branch -m new_branch wchar_support
+
+git mv abc.txt new.txt
